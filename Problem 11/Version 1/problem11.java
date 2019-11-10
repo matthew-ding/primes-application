@@ -9,7 +9,6 @@ public class problem11 {
 	static String[] keyArray;
 	
 	public static void main(String[] args) throws FileNotFoundException {
-		//TODO: CHANGE FILE
 		Scanner fin = new Scanner(new File("problem11.in"));
 		fin.useDelimiter(":|\\n| ");
 		PGrammar grammar = new PGrammar();
