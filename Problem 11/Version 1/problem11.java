@@ -10,7 +10,7 @@ public class problem11 {
 	
 	public static void main(String[] args) throws FileNotFoundException {
 		//TODO: CHANGE FILE
-		Scanner fin = new Scanner(new File("problem10.in"));
+		Scanner fin = new Scanner(new File("problem11.in"));
 		fin.useDelimiter(":|\\n| ");
 		PGrammar grammar = new PGrammar();
 		
