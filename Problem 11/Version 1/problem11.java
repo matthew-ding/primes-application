@@ -4,9 +4,9 @@ import java.util.*;
 
 public class problem11 {
 
-	static ArrayList<Double>[][][] array;
-	static BackPointer[][][] backList;
-	static String[] keyArray;
+	static ArrayList<Double>[][][] array; //list of probabilities for each backpointer for each node
+	static BackPointer[][][] backList; //list of backpointers
+	static String[] keyArray; //array of nonterminals
 	
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner fin = new Scanner(new File("problem11.in"));
