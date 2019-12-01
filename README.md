@@ -23,12 +23,15 @@ WHERE TO FIND SOLUTIONS
    b. problem7.java (Problem 7)
    c. Grammar.java (Problem 6,7)
    
-Additionally, following files should be found under "Problem 6-7"
+Additionally, following input/output files should be found under "Problem 6-7"
 
-   a. problem6.in
-   b. problem7.in
-   c. problem7.out
-   d. Additional files???
+   a. problem6.in - problem 6 main input file
+   b. testCase6-2.txt - problem 6 2nd input file
+   c. testCase6-3.txt - problem 6 3rd input file
+   d. problem7.in - problem 7 main input file
+   e. problem7.out - problem 7 main output file
+   f. testCase7-2.txt - problem 7 2nd input file
+   g. testCase6-3.txt - problem 7 3rd input file
    
 3) Files relating to Problem 10, 11, and 12 can be found under the directory called "Problem 10-12". Within this should be the "src/Problem10_11_12" directory, which should contain the following files:
    
@@ -53,6 +56,8 @@ Additionally, following files should be found under "Problem 10-12"
    
 HOW TO RUN PROGRAMS
 ---------------------------------
+ NOTE: All programs automatically take input from appropriately labeled .in file. If you would like to test the input files with a .txt extension, you need to copy/paste its contents into the respective .in file for the problem.
+ 
 1) Problems 6 and 7
 
 Take the project files found under "Problem 6-7", and build and compile a Java program.
