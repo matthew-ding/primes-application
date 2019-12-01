@@ -28,6 +28,7 @@ Additionally, following input/output files should be found under "Problem 6-7"
    a. problem6.in - problem 6 main input file
    b. testCase6-2.txt - problem 6 2nd input file
    c. testCase6-3.txt - problem 6 3rd input file
+   
    d. problem7.in - problem 7 main input file
    e. problem7.out - problem 7 main output file
    f. testCase7-2.txt - problem 7 2nd input file
@@ -43,15 +44,21 @@ Additionally, following input/output files should be found under "Problem 6-7"
    f. DerivationList.java (Problem 11,12)
    g. BackPointer.java (Problem 11,12)
    
-Additionally, following files should be found under "Problem 10-12"
+Additionally, following input/output files should be found under "Problem 10-12"
 
-   a. problem10.in
-   b. problem10.out
-   c. problem11.in
-   d. problem12.in
-   e. problem12Grammar.in
-   f. problem12.out
-   g. Additional files???
+   a. problem10.in - problem 10 main input file
+   b. problem10.out - problem 10 main output file
+   c. testCase10-2.txt - problem 10 2nd input file
+   d. testCase10-3.txt - problem 10 3rd input file
+   
+   e. problem11.in - problem 11 main input file
+   f. testCase11-2 - problem 11 2nd input file
+   
+   g. problem12.in - problem 12 main input file (1000 strings)
+   h. problem12Grammar.in - problem 12 Grammar input file (CFG input)
+   i. problem12.out - problem 12 main output file
+   j. testCase12-2 - problem 12 2nd input file (output of problem10.java with testCase10-2)
+   k. testCase12-3 - problem 12 3rd input file (output of problem10.java with testCase10-3)
    
    
 HOW TO RUN PROGRAMS
