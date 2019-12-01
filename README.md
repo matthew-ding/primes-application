@@ -17,13 +17,13 @@ WHERE TO FIND SOLUTIONS
 -----------------------------------
 1) Solutions for Problems 1-5,8,9 can be found in the pdf file called: ... Also included are general comments and descriptions for programs created for Problems 6,7,10,11, and 12.
 
-2) Files relating to Problem 6 and 7 can be found under the directory called "Problem 6-7". Within this should be the "src/Problem6_7" directory, which should contain the following files:
+2) Files relating to Problem 6 and 7 can be found under the directory called "Problem6-7". Within this should be the "src/Problem6_7" directory, which should contain the following files:
    
    a. problem6.java (Problem 6)
    b. problem7.java (Problem 7)
    c. Grammar.java (Problem 6,7)
    
-Additionally, following input/output files should be found under "Problem 6-7"
+Additionally, following input/output files should be found under "Problem6-7"
 
    a. problem6.in - problem 6 main input file
    b. testCase6-2.txt - problem 6 2nd input file
@@ -34,7 +34,7 @@ Additionally, following input/output files should be found under "Problem 6-7"
    f. testCase7-2.txt - problem 7 2nd input file
    g. testCase6-3.txt - problem 7 3rd input file
    
-3) Files relating to Problem 10, 11, and 12 can be found under the directory called "Problem 10-12". Within this should be the "src/Problem10_11_12" directory, which should contain the following files:
+3) Files relating to Problem 10, 11, and 12 can be found under the directory called "Problem10-12". Within this should be the "src/Problem10_11_12" directory, which should contain the following files:
    
    a. problem10.java (Problem 10)
    b. problem11.java (Problem 11)
@@ -44,7 +44,7 @@ Additionally, following input/output files should be found under "Problem 6-7"
    f. DerivationList.java (Problem 11,12)
    g. BackPointer.java (Problem 11,12)
    
-Additionally, following input/output files should be found under "Problem 10-12"
+Additionally, following input/output files should be found under "Problem10-12"
 
    a. problem10.in - problem 10 main input file
    b. problem10.out - problem 10 main output file
@@ -65,9 +65,11 @@ HOW TO RUN PROGRAMS
 ---------------------------------
  NOTE: All programs automatically take input from appropriately labeled .in file. If you would like to test the input files with a .txt extension, you need to copy/paste its contents into the respective .in file for the problem.
  
+ Within the ding-CS-solution, there are two separate project files: Problem6-7 and Problem10-12. These are two separate projects, and should be imported separately.
+ 
 1) Problems 6 and 7
 
-Take the project files found under "Problem 6-7", and build and compile a Java program.
+Import the "Problem6-7" directory as a standalone project, and build and compile a Java program.
 
    a. Problem 6
       -Run the main method within "problem6.java"
@@ -83,7 +85,7 @@ Take the project files found under "Problem 6-7", and build and compile a Java p
       
 2) Problem 10,11,12
 
-Take the project files found under "Problem 10-12", and build and compile a Java program.
+Import the "Problem10-12" directory as a standalone project, and build and compile a Java program.
 
    a. Problem 10
       -Run the main method within "problem10.java"
