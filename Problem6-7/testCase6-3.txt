@@ -1,0 +1,8 @@
+S:ASB
+S:$
+A:aAS
+A:a
+A:$
+B:SbS
+B:A
+B:bb
