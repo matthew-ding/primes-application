@@ -1,4 +1,4 @@
-# primes
+# primes-application
 OVERVIEW
 ----------------------------------
 Development Framework:
