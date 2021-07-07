@@ -1,4 +1,4 @@
-# primes
+# primes-application
 OVERVIEW
 ----------------------------------
 Development Framework:
@@ -15,6 +15,10 @@ Java Version 8 Update 221 (build 1.8.0_221-b11)
 
 WHERE TO FIND SOLUTIONS
 -----------------------------------
+Math:
+All solutions can be found in the pdf file called: Math-Solutions.
+
+CS:
 1) Solutions for Problems 1-5,8,9 can be found in the pdf file called: CS-Solutions. Also included are general comments and descriptions for programs created for Problems 6,7,10,11, and 12.
 
 2) Files relating to Problem 6 and 7 can be found under the directory called "Problem6-7". Within this should be the "src/Problem6_7" directory, which should contain the following files:
